@@ -10,6 +10,7 @@ function Contacto() {
         <h2>Solicita tu cotización</h2>
         <p>Escríbenos o llámanos para conversar sobre tu proyecto.</p>
         <a className="button button-primary" href="mailto:contacto@acabadosypinturas.com">Enviar un correo</a>
+        <a className="button button-primary" href="https://wa.me/573106296640" target="_blank" rel="noopener noreferrer">Escribir por WhatsApp</a>
         <p className="contact-note">Atendemos proyectos residenciales y comerciales.</p>
       </section>
     </main>
